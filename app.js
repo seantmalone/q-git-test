@@ -1,3 +1,3 @@
 console.log("m 3");
 
-console.log("f 2");
+console.log("f 3");
